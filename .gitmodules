@@ -5,6 +5,3 @@
 [submodule "LPKsample"]
 	path = LPKsample
 	url = https://github.com/cran/LPKsample
-[submodule "LPRelevance"]
-	path = LPRelevance
-	url = https://github.com/cran/LPRelevance
